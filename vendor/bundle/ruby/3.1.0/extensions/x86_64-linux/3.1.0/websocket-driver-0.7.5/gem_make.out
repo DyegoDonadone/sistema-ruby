@@ -1,0 +1,15 @@
+current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/dyego/.rbenv/versions/3.1.2/bin/ruby -I /home/dyego/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20220726-85704-rzjfj2.rb extconf.rb
+creating Makefile
+
+current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.1.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20220726-85704-6kts5g
