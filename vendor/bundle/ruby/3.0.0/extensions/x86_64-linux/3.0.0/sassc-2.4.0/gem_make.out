@@ -1,5 +1,5 @@
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220726-46831-uf8417.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220726-79638-md5ypq.rb extconf.rb
 creating Makefile
 
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/sassc-2.4.0/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20220726-46831-o7hodg/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20220726-79638-q1gyc8/sassc

@@ -1,5 +1,5 @@
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220726-46831-m56hhi.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220726-79638-h3molj.rb extconf.rb
 checking for rb_block_call()... yes
 checking for rb_ary_subseq()... yes
 creating Makefile
@@ -14,4 +14,4 @@ linking shared-object racc/cparse.so
 
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 cparse.so ./.gem.20220726-46831-z77yol/racc
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20220726-79638-5nv25k/racc

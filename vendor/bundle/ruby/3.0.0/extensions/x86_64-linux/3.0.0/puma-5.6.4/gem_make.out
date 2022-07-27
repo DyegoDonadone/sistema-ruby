@@ -1,5 +1,5 @@
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/puma-5.6.4/ext/puma_http11
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220726-46831-83d95o.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220726-79638-nggipg.rb extconf.rb
 checking for BIO_read() in -lcrypto... yes
 checking for SSL_CTX_new() in -lssl... yes
 checking for openssl/bio.h... yes
@@ -24,4 +24,4 @@ linking shared-object puma/puma_http11.so
 
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/puma-5.6.4/ext/puma_http11
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20220726-46831-42xg4f/puma
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20220726-79638-k7dl6v/puma

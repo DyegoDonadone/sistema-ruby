@@ -1,5 +1,5 @@
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/pg-1.4.1/ext
-/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220726-51177-1bcfi7.rb extconf.rb
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20220726-79638-gk563a.rb extconf.rb
 Calling libpq with GVL unlocked
 checking for pg_config... yes
 Using config values from /usr/bin/pg_config
@@ -55,5 +55,5 @@ linking shared-object pg_ext.so
 
 current directory: /media/dyego/Dados/Arquivo/sistema-ruby/vendor/bundle/ruby/3.0.0/gems/pg-1.4.1/ext
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20220726-51177-1l2qo
+/usr/bin/install -c -m 0755 pg_ext.so ./.gem.20220726-79638-walmdv
 installing pg_ext libraries
